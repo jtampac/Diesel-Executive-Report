@@ -1,9 +1,0 @@
-metric,value,unit,delta_pct
-total_diesel_received,1120603,L,4.3
-total_diesel_issued,1060112,L,7.0
-current_balance,108491,L,1.1
-average_daily_issued,2904,L/day,-2.4
-active_assets,15,units,2.0
-no_asset_quantity,82859,L,-7.1
-no_asset_transactions,362,txn,-4.2
-no_asset_pct,7.8,%,1.1
