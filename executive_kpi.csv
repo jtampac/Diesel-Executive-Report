@@ -1,0 +1,10 @@
+metric,value,unit,delta_pct
+total_diesel_received,,L,
+total_diesel_issued,,L,
+current_balance,,L,
+average_daily_issued,,L/day,
+total_transactions,,txn,
+active_assets,,units,
+no_asset_quantity,,L,
+no_asset_transactions,,txn,
+no_asset_pct,,%,
